@@ -4,3 +4,22 @@ body{
   background-repeat: no-repeat;
   background-size: cover;
 }
+h1{
+  font-size: 5em;
+  color:#CC0033;
+  text-align: center;
+  font-family: 'Rubik', sans-serif;
+  margin: 3%;
+}
+option{
+  font-family: 'Quicksand', sans-serif;
+}
+label{
+  font-family: 'Quicksand', sans-serif;
+  font-size: 2em;
+  font-weight: bolder;
+}
+.foto{
+  text-align: center;
+  padding-top: 3%;
+}
